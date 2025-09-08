@@ -4,4 +4,4 @@ szovegek proba
 valami 2
 valami 3
 # kiemelt szöveg
-[link](www.google.com)
+[link](https//www.google.com)
